@@ -1,0 +1,2 @@
+# news
+simple news page
